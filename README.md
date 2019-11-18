@@ -4,7 +4,7 @@
 
 The [MinneAnalytics 2019 challenge](http://minneanalytics.org/minnemudac/) involved forecasting Soybean futures so as to help local soy farmers make informed decisions about when to sell their crops. A decision on what price to sell at, especially in the volatile market of 2019, is critical. Our work involved collecting data including but not limited to **commodity prices, financial indexes, Google News trends, and tweets of policy makers**. This was followed by an extensive implementation of predictive modeling methods including **ensemble methods and recurrent neural networks**. Our model achieved a prediction error of ~5.6 cents (< 1%).
 
-![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/1.png)
+![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
 
 More than 100 teams presented at the Optum Technology Center in Minneapolis on November 9th and our team was awarded first place in the Graduate Student division. 
 
@@ -19,7 +19,7 @@ Winner across divisions - http://minneanalytics.org/announcing-the-winners-of-th
 
 We are as much commodity traders as we are farmers, so first we went looking at peer reviewed journals for expert research. We came away with the understanding that prices and their interactions were the most important category of data sources we could consider, So starting from the most important price: the price of recent soybean futures, we added other prices we felt important. We added metrics to capture the behavior, and instability, of traders and the exchange itself as well as social media and news trends to capture public sentiment. 
 
-![1574100207862](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
+![1574100207862](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/3.png)
 
 ### Machine Learning Journey
 
@@ -39,7 +39,7 @@ In addition to this, our focus was on generating insights along with predictions
 
 **Most Important Features**
 
-![1574100723594](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/4.png)
+![1574100723594](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/5.png)
 
 ### Profitability for the farmer
 
