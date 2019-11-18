@@ -1,4 +1,4 @@
-# Soybean Price Prediction-MinneMUDAC-winning-solution
+# Soybean Price Prediction - MinneMUDAC winning solution
 
 The MinneAnalytics 2019 challenge (http://minneanalytics.org/minnemudac/) involved forecasting Soybean futures so as to enable farmers to make informed decisions about selling their crop. A decision on what price to sell at, especially in the volatile market of 2019, is important. Our work involved collecting data including but not limited to commodity prices, financial indexes, google news trends, and tweets of policy makers. This was followed by an extensive implementation of predictive modeling methods including ensemble methods and recurrent neural networks. Our model achieved a prediction error of ~5.6 cents (< 1%).
 
