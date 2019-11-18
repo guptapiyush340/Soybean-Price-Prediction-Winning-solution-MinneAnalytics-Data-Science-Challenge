@@ -47,7 +47,7 @@ Let’s say farmer Joe has to sell 6400 bushels of soybean. He could make the de
 
 On the 4th, our model recommends him to sell the bushels as the price would drop the next day, and it did!  For each day of the week last week, the farmer could have profited by making a SELL or HOLD decision using our Machine Learning approach and saved $372 on an average.
 
-![1574100794635](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/5.png)
+![1574100794635](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/1.png)
 
 In a volatile market, a data driven SELL or HOLD decision could have saved the farmer $7366 dollars and 34 cents!
 
