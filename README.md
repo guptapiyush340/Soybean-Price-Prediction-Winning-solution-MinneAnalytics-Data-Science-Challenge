@@ -14,8 +14,8 @@ This project includes following:
 
 
 We experimented with multiple prediction algorithms.
-    a. Prophet 
-    b. ARIMA 
-    c. XGBoost 
-    d. LSTM 
-    e. Seq2Seq
+1. Prophet 
+2. ARIMA 
+3. XGBoost 
+4. LSTM 
+5. Seq2Seq
