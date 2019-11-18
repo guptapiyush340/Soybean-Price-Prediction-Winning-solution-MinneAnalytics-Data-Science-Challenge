@@ -19,7 +19,7 @@ Winner across divisions - http://minneanalytics.org/announcing-the-winners-of-th
 
 We are as much commodity traders as we are farmers, so first we went looking at peer reviewed journals for expert research. We came away with the understanding that prices and their interactions were the most important category of data sources we could consider, So starting from the most important price: the price of recent soybean futures, we added other prices we felt important. We added metrics to capture the behavior, and instability, of traders and the exchange itself as well as social media and news trends to capture public sentiment. 
 
-![1574100207862](C:\Users\harsh\AppData\Roaming\Typora\typora-user-images\1574100207862.png)
+![1574100207862](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
 
 ### Machine Learning Journey
 
@@ -35,11 +35,11 @@ The three approaches - XGBoost, LSTM and Seq2Seq are really good and give compar
 
 In addition to this, our focus was on generating insights along with predictions, so we decided to finalize with XGBoost because it provides interpretation in terms of feature importance. 
 
-![1574100414202](C:\Users\harsh\AppData\Roaming\Typora\typora-user-images\1574100414202.png)
+![1574100414202](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/3.png)
 
 **Most Important Features**
 
-![1574100723594](C:\Users\harsh\AppData\Roaming\Typora\typora-user-images\1574100723594.png)
+![1574100723594](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/4.png)
 
 ### Profitability for the farmer
 
@@ -47,8 +47,8 @@ Let’s say farmer Joe has to sell 6400 bushels of soybean. He could make the de
 
 On the 4th, our model recommends him to sell the bushels as the price would drop the next day, and it did!  For each day of the week last week, the farmer could have profited by making a SELL or HOLD decision using our Machine Learning approach and saved $372 on an average.
 
-![1574100794635](C:\Users\harsh\AppData\Roaming\Typora\typora-user-images\1574100794635.png)
+![1574100794635](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/5.png)
 
 In a volatile market, a data driven SELL or HOLD decision could have saved the farmer $7366 dollars and 34 cents!
 
-![1574100879786](C:\Users\harsh\AppData\Roaming\Typora\typora-user-images\1574100879786.png)
+![1574100879786](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/6.png)
