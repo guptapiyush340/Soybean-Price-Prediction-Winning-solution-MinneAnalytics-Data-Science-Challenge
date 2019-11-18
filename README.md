@@ -52,6 +52,6 @@ On the 4th, our model recommends him to sell the bushels as the price would drop
 
 ![1574100794635](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/6.png)
 
-In a volatile market, a data driven SELL or HOLD decision could have saved the farmer $7366 dollars and 34 cents!
+In a volatile market, a data driven SELL or HOLD decision could have saved the farmer $7366 dollars!
 
 ![1574100879786](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/7.png)
