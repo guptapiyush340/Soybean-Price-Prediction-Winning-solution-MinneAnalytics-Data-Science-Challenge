@@ -5,6 +5,9 @@ Website link - http://minneanalytics.org/minnemudac/
 This project includes following:
 1. Presentation 
 2. Machine Learning algorithms 
+
+
+We experimented with multiple prediction algorithms.
     a. Prophet 
     b. ARIMA 
     c. XGBoost 
