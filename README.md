@@ -10,9 +10,10 @@ More than 100 teams presented at the Optum Technology Center in Minneapolis on N
 
 Team: [Harsh Seksaria](https://www.linkedin.com/in/harsh-seksaria/), [Piyush Gupta](https://www.linkedin.com/in/piyushguptads/), [Hamed Khoojinian](https://www.linkedin.com/in/hamedian/), [Yassine Manane](https://www.linkedin.com/in/yassine-manane/), [Pushkar Vengulekar](https://www.linkedin.com/in/pvengurlekar/)
 
-![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
 
-Carlson School of Management (@CarlsonNews) <a href="https://twitter.com/CarlsonNews/status/1195406352157487109?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/CarlsonNews?ref_src=twsrc%5Etfw">@CarlsonNews</a> for taking home First Prize in the Graduate division <a href="https://twitter.com/hashtag/MinneMUDAC?src=hash&amp;ref_src=twsrc%5Etfw">#MinneMUDAC</a> <a href="https://t.co/t6AJMA40jM">pic.twitter.com/t6AJMA40jM</a></p>&mdash; MinneAnalytics (@MinneAnalytics) <a href="https://twitter.com/MinneAnalytics/status/1195404197602054144?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote>
+
 
 Winner across divisions - http://minneanalytics.org/announcing-the-winners-of-the-minnemudac-2019-student-data-science-challenge/
 
