@@ -19,7 +19,7 @@ This project includes following:
 
 We experimented with multiple prediction algorithms.
 1. Prophet 
-2. ARIMA 
+2. [ARIMA](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/ARIMA.ipynb)
 3. [XGBoost](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/XGBoost%20-%20Final%20Model.ipynb)
 4. LSTM 
 5. [Seq2Seq](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/Seq2Seq.ipynb)
