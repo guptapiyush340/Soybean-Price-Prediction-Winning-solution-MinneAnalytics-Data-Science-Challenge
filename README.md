@@ -12,7 +12,7 @@ Team: [Harsh Seksaria](https://www.linkedin.com/in/harsh-seksaria/), [Piyush Gup
 
 ![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">👏👏👏 <a href="https://twitter.com/hashtag/CarlsonProud?src=hash&amp;ref_src=twsrc%5Etfw">#CarlsonProud</a></p>&mdash; Carlson School of Management (@CarlsonNews) <a href="https://twitter.com/CarlsonNews/status/1195406352157487109?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Carlson School of Management (@CarlsonNews) <a href="https://twitter.com/CarlsonNews/status/1195406352157487109?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Winner across divisions - http://minneanalytics.org/announcing-the-winners-of-the-minnemudac-2019-student-data-science-challenge/
 
