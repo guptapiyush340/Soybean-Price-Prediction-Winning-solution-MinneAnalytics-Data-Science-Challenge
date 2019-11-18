@@ -35,7 +35,7 @@ The three approaches - XGBoost, LSTM and Seq2Seq are really good and give compar
 
 In addition to this, our focus was on generating insights along with predictions, so we decided to finalize with XGBoost because it provides interpretation in terms of feature importance. 
 
-![1574100414202](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/3.png)
+![1574100414202](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/4.png)
 
 **Most Important Features**
 
