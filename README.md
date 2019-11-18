@@ -4,11 +4,13 @@
 
 The [MinneAnalytics 2019 challenge](http://minneanalytics.org/minnemudac/) involved forecasting Soybean futures so as to help local soy farmers make informed decisions about when to sell their crops. A decision on what price to sell at, especially in the volatile market of 2019, is critical. Our work involved collecting data including but not limited to **commodity prices, financial indexes, Google News trends, and tweets of policy makers**. This was followed by an extensive implementation of predictive modeling methods including **ensemble methods and recurrent neural networks**. Our model achieved a prediction error of ~5.6 cents (< 1%).
 
-![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
+![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/1.png)
 
 More than 100 teams presented at the Optum Technology Center in Minneapolis on November 9th and our team was awarded first place in the Graduate Student division. 
 
 Team: [Harsh Seksaria](https://www.linkedin.com/in/harsh-seksaria/), [Piyush Gupta](https://www.linkedin.com/in/piyushguptads/), [Hamed Khoojinian](https://www.linkedin.com/in/hamedian/), [Yassine Manane](https://www.linkedin.com/in/yassine-manane/), [Pushkar Vengulekar](https://www.linkedin.com/in/pvengurlekar/)
+
+![1574100030540](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/2.png)
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">👏👏👏 <a href="https://twitter.com/hashtag/CarlsonProud?src=hash&amp;ref_src=twsrc%5Etfw">#CarlsonProud</a></p>&mdash; Carlson School of Management (@CarlsonNews) <a href="https://twitter.com/CarlsonNews/status/1195406352157487109?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
