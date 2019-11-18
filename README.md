@@ -25,11 +25,11 @@ We are as much commodity traders as we are farmers, so first we went looking at 
 
 **We experimented with multiple prediction algorithms**
 
-1. Prophet 
-2. ARIMA 
+1. [ARIMA](https://github.com/guptapiyush340/Soybean-Price-Prediction-Winning-solution-MinneAnalytics-Data-Science-Challenge/blob/master/ARIMA.ipynb)
+2. [Prophet](https://github.com/guptapiyush340/Soybean-Price-Prediction-Winning-solution-MinneAnalytics-Data-Science-Challenge/blob/master/Prophet.ipynb)
 3. [XGBoost](https://github.com/guptapiyush340/Soybean-Price-Prediction---MinneMUDAC-winning-solution/blob/master/MinneMUDAC%20Final%20Model%20-%20XGBoost%20with%20Hyper-parameter%20tuning.ipynb)
-4. LSTM 
-5. Seq2Seq
+4. [LSTM](https://github.com/guptapiyush340/Soybean-Price-Prediction-Winning-solution-MinneAnalytics-Data-Science-Challenge/blob/master/LSTM.ipynb)
+5. [Seq2Seq](https://github.com/guptapiyush340/Soybean-Price-Prediction-Winning-solution-MinneAnalytics-Data-Science-Challenge/blob/master/Seq2Seq.ipynb)
 
 The three approaches - XGBoost, LSTM and Seq2Seq are really good and give comparable performance. But as per our research Neural Networks need lot of data to train with which we don’t have for this problem statement. 
 
