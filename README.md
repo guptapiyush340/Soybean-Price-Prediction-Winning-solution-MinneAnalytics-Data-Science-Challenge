@@ -4,6 +4,8 @@ The MinneAnalytics 2019 challenge (http://minneanalytics.org/minnemudac/) involv
 
 
 More than 100 teams presented at the Optum Technology Center in Minneapolis on November 9th and our team was awarded first place in the Graduate Student division. 
+
+
 Team: Piyush Gupta, Hamed Khoojinian, Yassine Manane, Harsh Seksaria, Pushkar Vengulekar
 
 Winner across divisions - http://minneanalytics.org/announcing-the-winners-of-the-minnemudac-2019-student-data-science-challenge/
